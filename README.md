@@ -1,17 +1,19 @@
 Resume using HTML
+<br>
 
 Live Demo 
+<br>
 webdev-eta-six.vercel.app
-
-Project Structure
+<br>
+Project Structure<br>
 webdev
 --index.html
-
-Technologies used
+<br>
+Technologies used<br>
 HTML
-
-About me 
+<br>
+About me <br>
 I am passionate about web development
-
-Contact
+<br>
+Contact<br>
 Email: kr571457@gmail.com
