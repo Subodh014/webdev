@@ -1,9 +1,6 @@
 Resume using HTML
 <br>
 
-Live Demo 
-<br>
-<link webdev-eta-six.vercel.app>
 <br>
 Project Structure<br>
 webdev
