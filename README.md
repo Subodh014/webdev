@@ -1,7 +1,6 @@
 Resume using HTML
 <br>
 
-<br>
 Project Structure<br>
 webdev
 --index.html
